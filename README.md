@@ -3,7 +3,7 @@
 - npm install react-native-image-picker@latest --save
 ```  
 ```diff
-+ Then set some files like- 
+- Then set some files like- 
 ```   
 ```diff
 // file: android/settings.gradle
